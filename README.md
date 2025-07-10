@@ -140,4 +140,3 @@ For issues related to:
 - Azure AI Foundry: Check [Azure AI documentation](https://docs.microsoft.com/azure/ai-services/)
 - Chainlit: Visit [Chainlit documentation](https://docs.chainlit.io/)
 - Azure SDK: See [Azure SDK for Python](https://docs.microsoft.com/azure/developer/python/)
-# langchain-azure-ai-agent
