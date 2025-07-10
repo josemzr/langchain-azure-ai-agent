@@ -1,4 +1,4 @@
-# Azure AI Foundry Document Chat Assistant
+# Azure AI Foundry Langchain Document Chat Assistant
 
 A Proof of Concept (PoC) application that demonstrates how to build a document-based chat interface using Langchain, Chainlit and Azure AI Foundry AI Agent Service. This application allows users to upload documents (PDF, DOCX, TXT) and ask questions about their content using Azure's AI capabilities.
 
